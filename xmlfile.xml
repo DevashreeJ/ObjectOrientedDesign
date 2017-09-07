@@ -1,0 +1,102 @@
+
+  <Record>
+    <key>
+      elem1
+    </key>
+    <name>
+      elem1
+    </name>
+    <category>
+      testData
+    </category>
+    <description>
+      First Element of db
+    </description>
+    <data>
+      elem1's StrData
+    </data>
+    <timeDate>
+      Thu Feb  9 21:11:11 2017
+
+    </timeDate>
+    <children>
+    </children>
+  </Record>
+  <Record>
+    <key>
+      elem2
+    </key>
+    <name>
+      elem2
+    </name>
+    <category>
+      testData2
+    </category>
+    <description>
+      Second Element of db
+    </description>
+    <data>
+      elem2's StrData
+    </data>
+    <timeDate>
+      Thu Feb  9 21:11:11 2017
+
+    </timeDate>
+    <children>
+    </children>
+  </Record>
+  <Record>
+    <key>
+      elem3
+    </key>
+    <name>
+      elem3
+    </name>
+    <category>
+      testData3
+    </category>
+    <description>
+      Third element of db
+    </description>
+    <data>
+      elem3's StrData
+    </data>
+    <timeDate>
+      Thu Feb  9 21:11:11 2017
+
+    </timeDate>
+    <children>
+      <childKey>
+        elem1
+      </childKey>
+      <childKey>
+        elem2
+      </childKey>
+    </children>
+  </Record>
+  <Record>
+    <key>
+      elem4
+    </key>
+    <name>
+      elem4
+    </name>
+    <category>
+      test4
+    </category>
+    <description>
+      hello world 4
+    </description>
+    <data>
+      elem4's StrData
+    </data>
+    <timeDate>
+      Thu Feb  9 21:11:11 2017
+
+    </timeDate>
+    <children>
+      <childKey>
+        elem3
+      </childKey>
+    </children>
+  </Record>

@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (TestStub.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  TestExec.cpp
+d:\project1\teststub\testexec.cpp(37): warning C4101: 'persist': unreferenced local variable
+  TestStub.vcxproj -> D:\Project1\Project1\Debug\TestExec.exe
+  TestStub.vcxproj -> D:\Project1\Project1\Debug\TestExec.pdb (Full PDB)

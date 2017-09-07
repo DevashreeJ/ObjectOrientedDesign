@@ -1,0 +1,16 @@
+﻿  Persistance.cpp
+d:\project1\persistance\persistance.h(148): warning C4018: '<': signed/unsigned mismatch
+  d:\project1\persistance\persistance.h(113): note: while compiling class template member function 'Element<Data> XmlPersistence<Data>::fromXml(std::string &)'
+          with
+          [
+              Data=StrData
+          ]
+  d:\project1\persistance\persistance.cpp(107): note: see reference to function template instantiation 'Element<Data> XmlPersistence<Data>::fromXml(std::string &)' being compiled
+          with
+          [
+              Data=StrData
+          ]
+  d:\project1\persistance\persistance.cpp(30): note: see reference to class template instantiation 'XmlPersistence<StrData>' being compiled
+d:\project1\strhelper.h(46): warning C4172: returning address of local variable or temporary
+  Persistance.vcxproj -> D:\Project1\Project1\Debug\Persistance.exe
+  Persistance.vcxproj -> D:\Project1\Project1\Debug\Persistance.pdb (Full PDB)
